@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import { 
   Search, Filter, Plus, Edit, Trash2, Bell, Download, Calendar, MapPin, Users, 
-  ChevronDown, X, BarChart2, Briefcase, Settings, LogOut
+  ChevronDown, X, BarChart2, Briefcase, Settings, 
 } from 'lucide-react'
 
 export default function EventsAdminPage() {

@@ -3,15 +3,14 @@ import React from 'react'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Card } from "@/components/ui/card"
-import { Carousel } from "@/components/ui/carousel"
-import { Mountain, Briefcase, Users, GraduationCap, Heart } from 'lucide-react'
+import {  Briefcase, Users, GraduationCap, } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { Gift, User, Calendar,  } from 'lucide-react'
 import { Facebook, Linkedin, Twitter } from 'lucide-react'
 import  { useRef } from 'react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
-import { GlobeDemo } from './globeDemo'
+// import { GlobeDemo } from '../globeDemo'
 import { 
    BookOpen,  Newspaper, 
    Building2, Settings, ArrowRight

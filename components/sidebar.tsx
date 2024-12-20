@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Book, BookOpen, Home, MessageSquare, PlusCircle, Share2, Trophy, Users2 } from 'lucide-react'
+import { Book,  Home, MessageSquare, PlusCircle, Share2, Trophy, Users2 } from 'lucide-react'
 
 export function Sidebar() {
   return (
